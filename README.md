@@ -1,2 +1,3 @@
 # Demineur
-Magnifique jeu de démineur fait avec 2 développeurs talentueux.
+Démineur classique.
+Projet de découverte de la POO en JAVA.
